@@ -57,6 +57,7 @@ Computation Speed: My model has significantly fewer parameters. On weak hardware
 Conclusion: My custom CNN is the "middle ground" – it is smarter than Scikit-learn but much lighter and faster than standard pre-trained Deep Learning models.
 
 # 5. Installation
+***Tensorflow in my project supports python 3.12 or older!!!***
 To run this project, you need to set up a Python virtual environment and install the required dependencies. The .venv folder is not included in the repository to keep the project lightweight.
 Steps to set up the environment from scratch:
 Open your terminal in the project folder.
