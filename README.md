@@ -1,4 +1,4 @@
-# My custom Convolutional Neural Network project for color detection on edge devices
+# My custom Convolutional Neural Network project for color detection on edge devices.
 
 # 1. Project Overview
 The main goal of this project is to create a Machine Learning system capable of classifying the dominant color in images. The project focuses on "Edge AI" – meaning the model is designed to be lightweight and efficient enough to run on microcontrollers or small devices. I used a custom Convolutional Neural Network (CNN) and converted it to TensorFlow Lite with INT8 quantization.
